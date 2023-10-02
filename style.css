@@ -1,0 +1,45 @@
+/*css styles*/
+
+h1 {
+    text-align: center;
+    background-color:black ;
+    color:aliceblue;
+    font-family:"Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h2 {
+    color:#fe0002;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.ingredients,
+ol {
+    font-style: italic;
+    font-size: 20px;
+}
+
+
+.homepage-links,
+p {
+    font-size: 20px;
+}
+
+
+.homepage-links li {
+    padding: 10px;
+    border: 10px solid #fe00007d;
+}
+
+.homepage-links {
+    list-style: none;
+    display: flex;
+}
+
+
+a {
+    color: green;
+    font-weight: 700;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
